@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Healthhepta as an Intern<br>🌱 I’m currently learning DevOps<br>💬 Ask me about CPP, JAVA, REACT, NODE JS<br>
+🔭 💬 Ask me about CPP, JAVA, REACT, NODE JS<br>
 
 
 ## 🌐 Socials:
