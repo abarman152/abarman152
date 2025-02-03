@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 💬 Ask me about CPP, JAVA, REACT, NODE JS<br>
+Hi! I’m Abir Barman, a passionate Full Stack Developer with a strong focus on AI, Machine Learning, and Data Analytics. I enjoy building scalable and efficient systems, with expertise in technologies such as React.js, Node.js, Express.js, MongoDB, Python, and more. I’m always looking to collaborate on interesting projects and continuously improve my skills through new challenges.
+
+Feel free to check out my repositories and connect with me! Let’s build something amazing together.<br>
 
 
 ## 🌐 Socials:
